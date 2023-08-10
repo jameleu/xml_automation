@@ -1,6 +1,6 @@
-# XML Correction and Validation File Suite (Quick Start Guide)
+# XML Automation Program: Correction and Validation (Quick Start Guide)
 ## What This is
-I was given permission to have this repository by Northrop Grumman, but I have had to not include 96.7% of the files in the original repository. Furthermore, many elements of this readme.md have been redacted.
+I was given permission to transfer and upload this to this repository, but I have had to not include ~96.7% of the files in the original repository. Furthermore, many elements of this readme.md have been redacted.
 
 This was one of the programs I wrote for my SWE internship at Northrop Grumman during summer of 2023.
 
