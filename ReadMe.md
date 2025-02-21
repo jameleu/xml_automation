@@ -2,6 +2,8 @@
 ## What This is
 This is a automation maintainability Python-Regexp program that corrects an xml file based on specific types of xml files determined by the .dtd file.
 
+Reasoning: I have some personal xml files that need correction after being incorrectly typed by a 3rd party. This was made before ChatGPT was useful for debugging. This was more so a way to explore how I can apply regexp and DSA.
+
 Skills: Python, regexp, data structures, algorithms
 
 Highlights of techniques used:
