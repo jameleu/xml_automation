@@ -1,10 +1,8 @@
 # XML Automation Program: Correction and Validation (Quick Start Guide)
 ## What This is
-I was given permission to transfer and upload this to this repository, but I have had to not include ~96.7% of the files in the original repository. Furthermore, many elements of this readme.md have been redacted.
-
-This was one of the programs I wrote for my SWE internship at Northrop Grumman during summer of 2023.
-
 This is a automation maintainability Python-Regexp program that corrects an xml file based on specific types of xml files determined by the .dtd file.
+
+Skills: Python, regexp, data structures, algorithms
 
 Highlights of techniques used:
 * stack for delimiter tracking and related algorithms for adding/removing delimiters
@@ -21,16 +19,9 @@ Highlights of techniques used:
 * "manual errors": text file containing manual errors that my have to fix without the script
 * new.xml - original "Msg_List.xml" file
 * new_final_manual.xml - fixed "Msg_List.xml" file. Passes as valid xml and can be utilized by program it is meant to be used by
-* redacted bullet point
-* redacted bullet point
-* redacted bullet point
-* redacted bullet point
 ## Helpful Resources
 * XML Validator: https://codebeautify.org/xmlvalidator
 * Regexp explanation and debugger: https://regex101.com/ 
-
-* PDF to Word: https://www.adobe.com/acrobat/online/pdf-to-word.html
-* Rotate PDF: Adobe DC (Alternative: Online Tool)
 
 ## XML File Corrector
 A Python script that corrects an input xml file to help maintain the xml database. Output file is where the final corrected file is stored (overwrites the file if it exists already). An error log is also created listing errors for improper nesting and incorrect bracket, quotation, and tag closures/openings.
@@ -52,8 +43,4 @@ For help:
 ```
 .\my_parser.py -h|--help
 ```
-
-## redacted
-### redacted
-### redacted
 
